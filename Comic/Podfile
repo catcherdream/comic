@@ -1,0 +1,21 @@
+platform :ios, '9.0'
+
+use_frameworks!
+
+target 'Comic' do
+
+pod 'SnapKit'
+pod 'Then'
+pod 'Moya'
+pod 'HandyJSON', '~> 4.0.0-beta.1'
+pod 'Kingfisher'
+pod 'Reusable'
+pod 'LLCycleScrollView'
+pod 'MJRefresh'
+pod 'MBProgressHUD'
+pod 'HMSegmentedControl'
+pod 'IQKeyboardManagerSwift'
+pod 'EmptyDataSet-Swift' 
+
+
+end

@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.5.1)
+  - EmptyDataSet-Swift (4.0.1)
+  - HandyJSON (4.0.0-beta.1)
+  - HMSegmentedControl (1.5.4)
+  - IQKeyboardManagerSwift (5.0.4)
+  - Kingfisher (4.2.0)
+  - LLCycleScrollView (1.4.1):
+    - Kingfisher
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.15)
+  - Moya (10.0.0):
+    - Moya/Core (= 10.0.0)
+  - Moya/Core (10.0.0):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Result (3.2.4)
+  - Reusable (4.0.0):
+    - Reusable/Storyboard (= 4.0.0)
+    - Reusable/View (= 4.0.0)
+  - Reusable/Storyboard (4.0.0)
+  - Reusable/View (4.0.0)
+  - SnapKit (4.0.0)
+  - Then (2.2.0)
+
+DEPENDENCIES:
+  - EmptyDataSet-Swift
+  - HandyJSON (~> 4.0.0-beta.1)
+  - HMSegmentedControl
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - LLCycleScrollView
+  - MBProgressHUD
+  - MJRefresh
+  - Moya
+  - Reusable
+  - SnapKit
+  - Then
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  EmptyDataSet-Swift: 277eb113597fd339f8255b39be9198ab6105f6f3
+  HandyJSON: 428bb18e2c34c2a77361accebf90cf64e4f74118
+  HMSegmentedControl: b25bc4ec44766e073d62c473188fb354ee244b76
+  IQKeyboardManagerSwift: a0592bb636b10a9a1cf75d2b2c61144226226c84
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  LLCycleScrollView: 8b59b21b458e14125cf4047e870ae50b127adc60
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: 9af70f5f9327a2cf87f0fb5929f35fcc2fa638ea
+  Moya: adb58b0f4e58430db43cc6e2f6ebab1836501186
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  Reusable: 98e5fff1e0e2e00872199699b276dde08ee56c07
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: 823f9813e1d4d0a814a5ba15e9c9d33ec7aca631
+
+PODFILE CHECKSUM: 932ca22942f7223a7e47a9b7106188609220007b
+
+COCOAPODS: 1.2.0
